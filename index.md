@@ -9,3 +9,6 @@ layout: default
 <a href='https://play.google.com/store/apps/details?id=com.tworeelers.tarsieracute&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 We're donating 50% of all in app purchases from this game to the [Philippine Tarsier Sanctuary Inc.](http://www.tarsierfoundation.org/)
 Watch this space for updates.
+
+
+We take commissions, making games for clients.  If you have a dream to make your own game and need a talented team to bring it into reality contact us at info@tworeelers.com
